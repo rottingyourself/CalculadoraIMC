@@ -100,21 +100,19 @@
             // 
             this.lblResultado.AutoSize = true;
             this.lblResultado.Font = new System.Drawing.Font("Bahnschrift Condensed", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.lblResultado.Location = new System.Drawing.Point(231, 237);
+            this.lblResultado.Location = new System.Drawing.Point(59, 269);
             this.lblResultado.Name = "lblResultado";
-            this.lblResultado.Size = new System.Drawing.Size(53, 25);
+            this.lblResultado.Size = new System.Drawing.Size(0, 25);
             this.lblResultado.TabIndex = 6;
-            this.lblResultado.Text = "label1";
             // 
             // lblSaude
             // 
             this.lblSaude.AutoSize = true;
             this.lblSaude.Font = new System.Drawing.Font("Bahnschrift Condensed", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.lblSaude.Location = new System.Drawing.Point(231, 275);
+            this.lblSaude.Location = new System.Drawing.Point(59, 307);
             this.lblSaude.Name = "lblSaude";
-            this.lblSaude.Size = new System.Drawing.Size(53, 25);
+            this.lblSaude.Size = new System.Drawing.Size(0, 25);
             this.lblSaude.TabIndex = 7;
-            this.lblSaude.Text = "label1";
             // 
             // Form1
             // 
